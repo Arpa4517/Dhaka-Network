@@ -1,1 +1,1 @@
-Dhaka Network is a project built for my Computer Networks course using Cisco Packet Tracer. In this project, a topology has been created for some areas of Dhaka where every area is a LAN. The requirements and the pkt file of the project is attached.
+Dhaka Network is a project built for my Computer Networks course using Cisco Packet Tracer. In this project, a topology has been created for some areas of Dhaka where every area is a LAN. The requirements and the pkt file of the project is attached along with the commands used and the VLSM subnetting tree.
